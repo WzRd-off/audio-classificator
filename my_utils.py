@@ -1,6 +1,6 @@
 from pydub import AudioSegment
 
-AUDIO_LENGTH_MS = 20_000
+AUDIO_LENGTH_MS = 10_000
 TARGET_FORMAT = 'wav'
 
 def process_file(args):
